@@ -40,4 +40,4 @@ A comprehensive, custom-built Purple Team environment designed to simulate and d
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/emir-raşit-gökçe-747bb439b/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=flat-square&logo=gmail)](mailto:emr.rasitgokce@gmail.com)
+
