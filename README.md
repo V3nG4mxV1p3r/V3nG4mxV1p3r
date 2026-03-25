@@ -22,6 +22,12 @@ Welcome to my digital workspace! I am a Cyber Security professional based in Tur
 
 ## 🚀 Technical Projects (Blue/Red Team)
 
+### 🧠 Live Memory Forensics & Credential Extraction (DFIR)
+An end-to-end Digital Forensics and Incident Response simulation focused on volatile memory analysis.
+* **Data Acquisition:** Bypassed OS-level driver restrictions to capture a 3GB live Physical Memory Dump (RAM) from a Windows 10 asset using Magnet RAM Capture, exfiltrating the data securely via SSH/SCP.
+* **Process & Threat Hunting:** Utilized **Volatility 3** to map the execution chain, proving a malicious PPID relationship between a suspicious `cmd.exe` and network-anomalous `PING.EXE`.
+* **Credential Carving:** Isolated targeted processes and performed localized memory dumps. Successfully extracted unencrypted, plaintext credentials directly from the `notepad.exe` process heap using advanced Linux string carving (`strings` & `grep`).
+
 ### 🔬 Advanced SOC & Threat Hunting Lab
 A comprehensive, custom-built Purple Team environment designed to simulate and detect advanced persistent threats.
 * **Simulated Attacks:** Executed Privilege Escalation and stealthy OS Credential Dumping targeting LSASS memory.
@@ -33,8 +39,8 @@ A comprehensive, custom-built Purple Team environment designed to simulate and d
 ## ⚔️ Arsenal & Technologies
 
 * **GRC & Auditing:** ISO 27001:2022, KVKK / GDPR Compliance, Risk Assessment, IT Audit Frameworks.
-* **Blue Team (Defense):** Wazuh SIEM, Sysmon, Event Logging, Threat Hunting, Incident Response.
-* **Red Team (Offense):** Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark.
+* **Blue Team (Defense & DFIR):** Volatility 3, Memory Forensics, Wazuh SIEM, Sysmon, Event Logging, Threat Hunting, Incident Response.
+* **Red Team (Offense):** Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark, Secure Copy (SCP).
 
 ---
 
