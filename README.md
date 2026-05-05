@@ -80,5 +80,5 @@ My focus: simulating real-world attack techniques and engineering the detection 
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emir%20Ra%C5%9Fit%20G%C3%B6k%C3%A7e-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/emir-raşit-gökçe-747bb439b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emir%20Ra%C5%9Fit%20G%C3%B6k%C3%A7e-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emir-ra%C5%9Fit-g%C3%B6k%C3%A7e-747bb439b/?skipRedirect=true)
 [![AltaySec Labs](https://img.shields.io/badge/AltaySec-Labs-1a1a2e?style=flat-square)](https://labs.altaysec.com.tr)
