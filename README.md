@@ -1,7 +1,7 @@
 # Emir Raşit Gökçe
 
 **Detection Engineer & Blue Team Operator**  
-Building open-source SOC lab environments at [AltaySec Labs](https://altaysec.com.tr)
+Building open-source SOC lab environments at [AltaySec Labs]([https://altaysec.com.tr](https://labs.altaysec.com.tr/))
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat-square)
